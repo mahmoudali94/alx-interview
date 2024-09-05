@@ -1,4 +1,7 @@
+````
 Prime Game
+````
+
 Concepts Needed:
 Prime Numbers:
 Understanding what prime numbers are.
